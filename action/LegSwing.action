@@ -1,0 +1,8 @@
+#goal-czas przez który ma być wykonywana akcja
+#success-Zwraca stan rezultatu
+#timeleft-czas który pozostał do końca
+float64 goal        
+---
+string success    
+---
+float64 timeleft   
